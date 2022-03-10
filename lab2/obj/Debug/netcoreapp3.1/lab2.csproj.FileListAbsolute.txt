@@ -1,0 +1,14 @@
+D:\nam3\CNPM\CNPMNC\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+D:\nam3\CNPM\CNPMNC\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+D:\nam3\CNPM\CNPMNC\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+D:\nam3\CNPM\CNPMNC\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+D:\nam3\CNPM\CNPMNC\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+D:\nam3\CNPM\CNPMNC\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+D:\nam3\CNPM\CNPMNC\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
